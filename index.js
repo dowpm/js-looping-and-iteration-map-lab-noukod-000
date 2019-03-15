@@ -1,7 +1,7 @@
 // Code your solution in this file.
 
 function lowerCaseDrivers(drivers){
-    return drivers.map(function (emp){return emp.toLowerCase()});
+    return drivers.map(function (driver){return emp.toLowerCase()});
 }
 
 function nameToAttributes(drivers) {
